@@ -13,6 +13,9 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-//Links
+Links
 
-//Screenshot of page
+https://gibsona475.github.io/Day-Planner-/
+
+https://github.com/gibsona475/Day-Planner-.git
+
