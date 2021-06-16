@@ -29,6 +29,7 @@ body {
     text-align: center;
     border-radius: 15px;
     color: #ff6961;
+    columns: auto;
   }
   
   .row {
@@ -41,6 +42,8 @@ body {
     background-color: #ffffff;
     color: #000000;
     border-top: 1px dashed #000000;
+    text-align: center;
+    padding: 2%;
   }
   
   .past {
@@ -66,13 +69,13 @@ body {
     color: white;
   }
   
-  .saveBtn i:hover {
+  .saveBtn:hover {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
   }
   
   .timeContainer {
-    
+   margin: 40px;
     color: #06aed5;
   }
   .timeContainer:hover {
