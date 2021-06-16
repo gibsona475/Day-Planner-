@@ -54,7 +54,7 @@ else if (blockhour = currentTime)
 {
     $(".row").addClass(".present");
 }
-else (blockhour < currentTime)
+else if (blockhour < currentTime)
 {
     $(".row").addClass(".future")
 }
